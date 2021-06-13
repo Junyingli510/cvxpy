@@ -5,7 +5,7 @@ Our mobile factory makes three types of phones (lets call them A, B, C).
 
 profit per phone type A will be constant for every following month (variable price_a)
 profit per phone type B will be lowering every month, because it is an old model and people will be buying less so the overall price will have to be lower. Profit per phone type B is in variable price_b.
-profit per phone type C on the other hand will go up. It is new model and company expect to rapid improvement in technology (mostly lowering the manufacturing costs), variable price_c
+profit per phone type C on the other hand will go up. It is new model and company expect to rapid improvement in technology (mostly lowering the manufacturing costs), variable price_c.
 Factory limitations:
 
 factory is not able to produce more then 10000 mobile phones per month
